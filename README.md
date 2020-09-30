@@ -153,6 +153,13 @@
 
 
 <details align="center">
+<summary>MY RECENT COMMITS - 📖</summary>
+
+<!-- START gadpp -->
+
+</details>
+
+<details align="center">
 <summary>GITHUB DATA - 💾</summary>
 
 <!--START_SECTION:waka-->
