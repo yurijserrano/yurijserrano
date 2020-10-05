@@ -156,7 +156,7 @@
 <summary>MY RECENT COMMITS - 📖</summary>
 
 <!-- START gadpp -->
-- yurijserrano/Pokedex, [refs/heads/master@4abb8d82e0c59ada3813fb399c1689603e9652d0](https://github.com/yurijserrano/Pokedex/commit/4abb8d82e0c59ada3813fb399c1689603e9652d0)
+- yurijserrano/Pokedex, [refs/heads/master@37209487d653c5cc76432ade165a0feaeb3baa0b](https://github.com/yurijserrano/Pokedex/commit/37209487d653c5cc76432ade165a0feaeb3baa0b)
 - yurijserrano/Version-Control-with-Git-Atlassian, [refs/heads/master@8d4618fa945fc35f71f9104742fb788f367be3af](https://github.com/yurijserrano/Version-Control-with-Git-Atlassian/commit/8d4618fa945fc35f71f9104742fb788f367be3af)
 
 </details>
