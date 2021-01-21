@@ -210,17 +210,16 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     1 hr 45 mins        ████████████████████░░░░░   80.5% 
-Bash                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.5%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 10 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 10 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
