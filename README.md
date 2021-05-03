@@ -210,17 +210,16 @@ Sunday       27 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 31 mins        ████████████████████████░   99.29% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Exercises                1 hr 31 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
