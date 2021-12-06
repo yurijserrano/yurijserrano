@@ -165,7 +165,7 @@
 <summary>GITHUB DATA - 💾</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -210,25 +210,16 @@ Sunday       23 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Text                     14 hrs 22 mins      ████████████████░░░░░░░░░   64.09% 
-Java                     4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   22.18% 
-XML                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.89% 
-Properties               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
-HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 hrs 3 mins       ███████████████░░░░░░░░░░   62.61% 
-IntelliJ                 8 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.39%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          14 hrs 38 mins      ████████████████░░░░░░░░░   65.21% 
-review                   3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
-DogGraphQL-master        1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-cloudstorage             1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.4% 
-Storage-Drive-App-master 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 hrs 26 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -249,7 +240,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yurijserrano/yurijserrano/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 </details>
