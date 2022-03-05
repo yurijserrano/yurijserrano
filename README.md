@@ -165,7 +165,7 @@
 <summary>GITHUB DATA - 💾</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -198,7 +198,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yurijserrano/yurijserrano/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/03/2022 00:25:02 UTC
+ Last Updated on 05/03/2022 00:22:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
