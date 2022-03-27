@@ -165,19 +165,19 @@
 <summary>GITHUB DATA - 💾</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2022
  > 
 > 📦 341.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 99 Public Repositories 
+> 📜 100 Public Repositories 
  > 
 > 🔑 14 Private Repositories  
  > 
@@ -198,7 +198,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yurijserrano/yurijserrano/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/03/2022 00:22:40 UTC
+ Last Updated on 27/03/2022 00:23:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
