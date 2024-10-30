@@ -38,24 +38,6 @@
 
 ---
 
-<h2 align="center"> MY GITHUB STATS - 📣 </h2>
-
-
-<p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yurijserrano&theme=dracula&show_icons=true&count_private=true" width="500" /></a>
-</p>
-
----
-
-<h2 align="center"> STREAK STATS - 🎯 </h2>
-
-
-<div align="center">
-	<a target="_blank" href="https://github.com/yurijserrano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yurijserrano&theme=dracula" width="500" /></a>
-</div>
-
----
-
 <h2 align="center"> CONTRIBUTION SNAKE - 🐍 </h2>
 
 
@@ -71,6 +53,25 @@
 </div>
 
 ---
+
+<h2 align="center"> STREAK STATS - 🎯 </h2>
+
+
+<div align="center">
+	<a target="_blank" href="https://github.com/yurijserrano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yurijserrano&theme=dracula" width="500" /></a>
+</div>
+
+---
+
+<h2 align="center"> MY GITHUB STATS - 📣 </h2>
+
+
+<p align="center">
+	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yurijserrano&theme=dracula&show_icons=true&count_private=true" width="500" /></a>
+</p>
+
+---
+
 
 <h2 align="center"> MY PROGRAMMING LANGUAGES STATS - 🌀 </h2>
 
