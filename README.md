@@ -162,19 +162,6 @@
   <a href="https://github.com/yurijserrano" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
----
 
-
-<h2 align="center"> CHECK OTHER DATA - 📊 </h2>
-
-
-<details align="center">
-<summary>MY RECENT COMMITS - 📖</summary>
-
-<!-- START gadpp -->
-- yurijserrano/Pokedex, [refs/heads/master@60f15639d365c407dbac4369bbc43c539c107426](https://github.com/yurijserrano/Pokedex/commit/60f15639d365c407dbac4369bbc43c539c107426)
-- yurijserrano/Version-Control-with-Git-Atlassian, [refs/heads/master@8d4618fa945fc35f71f9104742fb788f367be3af](https://github.com/yurijserrano/Version-Control-with-Git-Atlassian/commit/8d4618fa945fc35f71f9104742fb788f367be3af)
-
-</details>
 
 
