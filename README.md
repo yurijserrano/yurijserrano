@@ -1,5 +1,6 @@
-<h1 align="center"> Yuri "Eagle" Serrano </h1>
-
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF80BF&center=true&vCenter=true&width=435&lines=Hi!+I+am+Yuri+%22Eagle%22+Serrano" alt="Typing SVG" />
+</h1>
 
 <p align="center">
 	<a target="_blank" href="https://github.com/yurijserrano"><img src="https://badges.pufler.dev/years/yurijserrano?color=blue" alt="Yuri Github Years" width="70" /></a>&nbsp;&nbsp;
@@ -11,18 +12,14 @@
 
 <h2 align="center"> ABOUT ME - 🦅 </h2>
 
-
 ### I am a passionate developer, that has the desire to sharp your current skills and master the most important programming languages.
 
 ---
-
-
-
 <h2 align="center"> MY GITHUB STATS - 📣 </h2>
 
 
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api?username=yurijserrano&count_private=true&show_icons=true&theme=graywhite" width="400" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api?username=yurijserrano&count_private=true&show_icons=true&theme=dracula" width="400" /></a>
 </p>
 
 ---
@@ -30,9 +27,12 @@
 <h2 align="center"> SPOTIFY PLAYING NOW - 🎧 </h2>
 
 
-<p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/novatorem"><img src="https://spotify-playing-github.yurijserrano.vercel.app/api/spotify-playing" alt="Yuri Spotify Playing Now" width="400" /></a>
-</p>
+<div align="center">
+	<img
+    src="https://yjsserrano.pythonanywhere.com?spin=true&scan=true&eq_color=ff80bf&theme=dark"
+    alt="Current Spotify Song"
+  />
+</div>
 
 ---
 
@@ -40,7 +40,7 @@
 
 
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api/top-langs/?username=yurijserrano&layout=compact&theme=graywhite" width="400" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api/top-langs/?username=yurijserrano&layout=compact&theme=dracula" width="400" /></a>
 </p>
 
 
@@ -50,7 +50,7 @@
 
 
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api/pin/?username=yurijserrano&repo=WaterReminder&theme=graywhite&show_owner=true" width="400" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api/pin/?username=yurijserrano&repo=WaterReminder&theme=dracula&show_owner=true" width="400" /></a>
 </p>
 
 ---
@@ -161,44 +161,4 @@
 
 </details>
 
-<details align="center">
-<summary>GITHUB DATA - 💾</summary>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 15 Contributions in the Year 2022
- > 
-> 📦 341.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 100 Public Repositories 
- > 
-> 🔑 14 Private Repositories  
- > 
-**I Mostly Code in Java** 
-
-```text
-Java                     41 repos            ████████████░░░░░░░░░░░░░   51.25% 
-C                        20 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
-HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/yurijserrano/yurijserrano/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 00:27:14 UTC
-<!--END_SECTION:waka-->
-
-</details>
