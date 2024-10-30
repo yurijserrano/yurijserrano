@@ -28,6 +28,16 @@
 
 ---
 
+<h2 align="center"> GITHUB TROPHIES - 🏆 </h2>
+
+<div align="center">
+  <a href="https://github.com/yurijserrano">
+    <img src="https://github-profile-trophy.vercel.app/?username=yurijserrano&theme=dracula&row=1" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
 <h2 align="center"> MY GITHUB STATS - 📣 </h2>
 
 
