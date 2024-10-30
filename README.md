@@ -15,14 +15,6 @@
 ### I am a passionate developer, that has the desire to sharp your current skills and master the most important programming languages.
 
 ---
-<h2 align="center"> MY GITHUB STATS - 📣 </h2>
-
-
-<p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yurijserrano&theme=dracula&show_icons=true&count_private=true" width="500" /></a>
-</p>
-
----
 
 <h2 align="center"> SPOTIFY PLAYING NOW - 🎧 </h2>
 
@@ -33,6 +25,15 @@
     alt="Current Spotify Song"
   />
 </div>
+
+---
+
+<h2 align="center"> MY GITHUB STATS - 📣 </h2>
+
+
+<p align="center">
+	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yurijserrano&theme=dracula&show_icons=true&count_private=true" width="500" /></a>
+</p>
 
 ---
 
