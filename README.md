@@ -56,7 +56,7 @@
 
 ---
 
-<h2 align="center"> COMMITS GRAPH - 📈 </h2>
+<h2 align="center"> CONTRIBUTION SNAKE - 🐍 </h2>
 
 
 ![Snake animation](https://github.com/yurijserrano/yurijserrano/blob/output/github-snake-dark.svg)
