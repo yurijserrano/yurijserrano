@@ -48,7 +48,7 @@
 <h2 align="center"> COMMITS GRAPH - 📈 </h2>
 
 
-![Snake animation](https://github.com/yurijserrano/yurijserrano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yurijserrano/yurijserrano/blob/output/github-snake-dark.svg)
 
 ---
 
