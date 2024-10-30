@@ -19,7 +19,7 @@
 
 
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api?username=yurijserrano&count_private=true&show_icons=true&theme=dracula" width="400" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yurijserrano&theme=dracula&show_icons=true&count_private=true" width="400" /></a>
 </p>
 
 ---
