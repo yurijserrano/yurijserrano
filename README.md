@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <a target="_blank" href="https://github.com/yurijserrano"><img src="https://img.shields.io/github/stars/yurijserrano?style=social" alt="Yuri Github Stars" width="90" /></a>&nbsp;&nbsp;
 	<a target="_blank" href="https://github.com/yurijserrano"><img src="https://badges.pufler.dev/years/yurijserrano?color=blue" alt="Yuri Github Years" width="60" /></a>&nbsp;&nbsp;
 	<a target="_blank" href="https://github.com/yurijserrano"><img src="https://komarev.com/ghpvc/?username=yurijserrano&color=blue" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
 	<a target="_blank" href="https://github.com/yurijserrano"><img src="https://badges.pufler.dev/repos/yurijserrano?color=blue" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
