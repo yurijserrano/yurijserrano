@@ -36,11 +36,18 @@
 
 ---
 
+<h2 align="center"> COMMITS GRAPH - 📈 </h2>
+
+
+![Snake animation](https://github.com/yurijserrano/yurijserrano/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <h2 align="center"> MY PROGRAMMING LANGUAGES STATS - 🌀 </h2>
 
 
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api/top-langs/?username=yurijserrano&layout=compact&theme=dracula" width="400" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurijserrano&layout=compact&theme=dracula" width="400" /></a>
 </p>
 
 
