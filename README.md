@@ -63,6 +63,15 @@
 
 ---
 
+<h2 align="center"> ACTIVITY GRAPH - 📊 </h2>
+<div align="center">
+  <a href="https://github.com/yurijserrano">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurijserrano&theme=dracula" alt="Activity Graph" />
+  </a>
+</div>
+
+---
+
 <h2 align="center"> MY PROGRAMMING LANGUAGES STATS - 🌀 </h2>
 
 
