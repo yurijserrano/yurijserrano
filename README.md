@@ -36,6 +36,15 @@
 
 ---
 
+<h2 align="center"> STREAK STATS - 🎯 </h2>
+
+
+<div align="center">
+	<a target="_blank" href="https://github.com/yurijserrano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yurijserrano&theme=dracula" width="500" /></a>
+</div>
+
+---
+
 <h2 align="center"> COMMITS GRAPH - 📈 </h2>
 
 
