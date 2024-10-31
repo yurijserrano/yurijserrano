@@ -88,7 +88,7 @@
 
 
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api/pin/?username=yurijserrano&repo=WaterReminder&theme=dracula&show_owner=true" width="400" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api/pin/?username=yurijserrano&repo=imagelite&theme=dracula&show_owner=true" width="400" /></a>
 </p>
 
 ---
